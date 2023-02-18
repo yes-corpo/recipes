@@ -1,0 +1,14 @@
+{
+    "recipes": {
+        "yes-corpo/feedback-bundle": [
+            "1.0"
+        ]
+    },
+    "branch": "main",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/yes-corpo/recipes",
+        "origin_template": "{package}:{version}@github.com/yes-corpo/recipes:main",
+        "recipe_template": "https://api.github.com/repos/yes-corpo/recipes/contents/{package_dotted}.{version}.json"
+    }
+}

@@ -1,0 +1,2 @@
+feedback_bundle:
+  resource: '@FeedbackBundle/Resources/config/routes.yaml'

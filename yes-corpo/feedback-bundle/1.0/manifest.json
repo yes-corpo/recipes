@@ -1,0 +1,8 @@
+{
+    "bundles": {
+        "YesCorpo\\Bundle\\FeedbackBundle\\FeedbackBundle": ["all"]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
